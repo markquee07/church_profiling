@@ -3,7 +3,7 @@
     ''last_id saved in sql
     Public last_id As Integer
     Public member_last_id As Integer
-
+    'comment from haribol
     ''Personal information
     Public id As Integer
     Public Member_id As String
